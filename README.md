@@ -120,7 +120,8 @@ The [next section](#data-collection) will demonstrate how to collect this data.
 Open the `futil-evaluation` directory on the Desktop. Right click in the file explorer
 and select `Open Terminal Here`. First run:
 ```
-git pull
+git pull;
+sudo apt install texlive texlive-latex-extra dvipng
 ```
 to make sure that everything is up to date. Then run:
 ```
