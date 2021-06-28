@@ -120,7 +120,7 @@ The [next section](#data-collection) will demonstrate how to collect this data.
 Open the `futil-evaluation` directory on the Desktop. Right click in the file explorer
 and select `Open Terminal Here`. First run:
 ```
-git pull
+git fetch; git checkout 1.2
 ```
 to make sure that everything is up to date. Then run:
 ```
